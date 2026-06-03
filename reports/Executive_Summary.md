@@ -1,8 +1,6 @@
 # Executive Summary: Strategic Retention & Margin Optimization
 
-**To:** Project Stakeholders  
-**From:** Data Analytics Team  
-**Date:** June 3, 2026  
+**To:** Project Stakeholders 
 **Subject:** Transitioning from Discount-Led Growth to Margin-First Retention
 
 ---
