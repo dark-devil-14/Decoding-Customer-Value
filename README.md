@@ -1,7 +1,7 @@
 # Decoding Customer Value: Strategic Intelligence & Retention Analysis
 
 ## 📌 Project Overview
-This project transforms raw transactional data into actionable customer intelligence. By leveraging Python for feature engineering, SQL for deep segmentation, and Power BI for executive reporting, we have developed a **Margin-First Retention Strategy** designed to transition the brand from discount-led growth to long-term profitability.
+This project transforms raw transactional data into actionable customer intelligence. By leveraging Python for feature engineering, SQL for deep segmentation, and Power BI for executive reporting, I have developed a **Margin-First Retention Strategy** designed to transition the brand from discount-led growth to long-term profitability.
 
 ## 📂 Repository Structure
 
